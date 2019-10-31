@@ -1,0 +1,20 @@
+html,body,#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* 左侧菜单设置字体大小 */
+.el-submenu__title,
+.el-menu-item {
+    font-size: 13px;
+} 
+
+i.iconfont {
+    margin-right: 15px;
+}
+
+.el-submenu [class^=el-icon-] {
+    margin-right: 10px;
+}
